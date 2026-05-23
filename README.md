@@ -4,10 +4,6 @@ Rust TUI experiment
 ## Setup
 
 ```Bash
-# cli-exp
-Rust CLI experiment
-
-```Bash
 rustup update stable
 
 rustc --version
