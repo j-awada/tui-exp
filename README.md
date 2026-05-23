@@ -1,2 +1,2 @@
-# cli-exp
-Rust CLI experiment
+# tui-exp
+Rust TUI experiment
